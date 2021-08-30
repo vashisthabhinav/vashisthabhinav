@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vashisthabhinav
 - 👀 I’m interested in ...Wed Development
-- 🌱 I’m currently ... doing B.Tech. Chemical Engineering
+- 🌱 I’m currently ... doing B.Tech. Chemical Engineering from NIT Hamirpur
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
