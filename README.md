@@ -3,7 +3,7 @@
 <h2 align="left">About me :</h2>
 <p> <img align="right" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif" width="500" height="320" /> </p>
 
-- Sophomore at NIT'H
+- Sophomore at NIT-Hamirpur
 - Pursuing B.Tech. in Chemical Engineering at NIT-Hamirpur (2020-Present)
 - I’m currently learning web development and Java Programming👨🏻‍💻
 - Volunteer at Hermetica Nith
