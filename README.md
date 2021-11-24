@@ -4,7 +4,7 @@
 <p> <img align="right" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif" width="500" height="320" /> </p>
 
 - Sophomore at NIT-Hamirpur
-- Pursuing B.Tech. in Chemical Engineering (2020-Present)
+- Pursuing B.Tech. in Chemical Engineering (2020-Present)⚗️
 - I’m currently learning Java Programming👨🏻‍💻
 - Volunteer at Hermetica NIMBUS (NIT-H Tech Fest)
 
