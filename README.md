@@ -1,6 +1,6 @@
 <h1 align="center"> Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px" height="55px">, Abhinav here</h1>
 
-<h2 align="left">About me :</h2>
+<h2 align="left">About me 🚀:</h2>
 <p> <img align="right" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif" width="500" height="320" /> </p>
 
 - Sophomore at NIT-Hamirpur
