@@ -11,23 +11,14 @@
 - I’m currently learning Java Programming👨🏻‍💻
 - Volunteer at Hermetica NIMBUS (NIT-H Tech Fest)
 
-### Connect with me on :left_speech_bubble:
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/abhinav-vashisth-6717151a9/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/abhinav-vashisth-6717151a9/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" width = "100" height = "30"></img></a>
 &emsp;
-<a target="_blank" href="mailto:vashisthabhishan3@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" width = "100" height = "30"></img></a>
+<a target="_blank" href="mailto:vashisthabhishan3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" width = "100" height = "30"></img></a>
 &emsp;
-<a target="_blank" href="https://leetcode.com/abhinav_010/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" ></img></a>
 <a target="_blank" href="https://leetcode.com/abhinav_010/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width = "100" height = "30" ></img></a>
 &emsp;
-<a target="_blank" href="https://twitter.com/Abhinav_0561"
-><img src="https://1000logos.net/wp-content/uploads/2017/06/Color-Twitter-Logo.jpg" width = "110" height = "35"></img></a>
-><img src="https://1000logos.net/wp-content/uploads/2017/06/Color-Twitter-Logo.jpg" width = "100" height = "30"></img></a>
+ <a target="_blank" href="https://twitter.com/Abhinav_0561"><img src="https://1000logos.net/wp-content/uploads/2017/06/Color-Twitter-Logo.jpg" width = "100" height = "30"></img></a>
 &emsp;
- 
  
  
 <h3 align="left"> 🛠Tech stacks :</h3>
