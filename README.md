@@ -24,8 +24,8 @@
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<br><img src="https://github-readme-streak-stats.herokuapp.com/?user=vashisthabhinav&theme=algolia"/><br>
+ <p align="center">
+<br><img src="https://github-readme-streak-stats.herokuapp.com/?user=vashisthabhinav&theme=algolia"/><br></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vashisthabhinav&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p>
 
