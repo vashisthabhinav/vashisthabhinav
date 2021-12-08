@@ -31,7 +31,7 @@
 
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vashisthabhinav&theme=merko&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vashisthabhinav&theme=highcontrast&hide_border=true&area=true)
 
 <br>
 
