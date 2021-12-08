@@ -1,7 +1,8 @@
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px" height="55px">, Abhinav here</h1>
+## Hello !!   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<h2 align="left">About me 🚀:</h2>
-<p> <img align="right" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif" width="500" height="320" /> </p>
+[![GitHub followers](https://img.shields.io/github/followers/vashisthabhinav.svg?style=social&label=Followers)](https://github.com/vashisthabhinav?tab=followers)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=C64B86&size=30&lines=Myself+Abhinav;)](https://git.io/typing-svg)
 
 - Sophomore at NIT-Hamirpur
 - Pursuing B.Tech. in Chemical Engineering (2020-Present)⚗️
