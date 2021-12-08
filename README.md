@@ -14,7 +14,7 @@
  <h3 align="left"> Join me on 😁:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhinav-vashisth-06613b208/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-vashisth-06613b208/" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-vashisth-06613b208/" height="30" width="40" /> &nbsp;
 </a>
  <a target="_blank" href="https://twitter.com/Abhinav_0561"><img src="https://1000logos.net/wp-content/uploads/2017/06/Color-Twitter-Logo.jpg" width = "70" height = "35"></img></a>
 &emsp;
