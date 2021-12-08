@@ -32,5 +32,4 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vashisthabhinav&theme=algolia&hide_border=true&area=true)
 
 <hr>
-
 ![Visitor Count](https://profile-counter.glitch.me/{vashisthabhinav}/count.svg)
