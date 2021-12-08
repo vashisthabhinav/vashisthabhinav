@@ -27,7 +27,7 @@
  
 <br><img src="https://github-readme-streak-stats.herokuapp.com/?user=vashisthabhinav&theme=algolia"/><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vashisthabhinav&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vashisthabhinav&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p>
 
 <br>
 
