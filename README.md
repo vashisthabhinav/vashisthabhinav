@@ -27,10 +27,16 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vashisthabhinav&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vashisthabhinav&show_icons=true&locale=en&theme=algolia" alt="ovi" width="410" /></p>
-<br><br><br><br>
+<br><br><br><br><br>
 <hr>
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vashisthabhinav&theme=algolia&hide_border=true&area=true)
 
+
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vashisthabhinav&theme=gruvbox&hide_border=true&area=true)
+  
+  
 <hr>
+
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{vashisthabhinav}/count.svg)
