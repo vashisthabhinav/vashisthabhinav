@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/vashisthabhinav.svg?style=social&label=Followers)](https://github.com/vashisthabhinav?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=C64B86&size=30&lines=Myself+Abhinav;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000FF&size=30&lines=Myself+Abhinav;)](https://git.io/typing-svg)
 
 
 ### About Me 🚀
