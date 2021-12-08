@@ -21,7 +21,7 @@
 
 ### 🔥 Github Stats
 
-<p align ="center"><img src="https://github-readme-stats.vercel.app/api?username=vashisthabhinav&&show_icons=true&count_private=true&theme=algolia"><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=vashisthabhinav&theme=algolia"/></p>
+<p align ="left"><img src="https://github-readme-stats.vercel.app/api?username=vashisthabhinav&&show_icons=true&count_private=true&theme=algolia"><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=vashisthabhinav&theme=algolia"/></p>
 
 <hr>
 <p align="center">
