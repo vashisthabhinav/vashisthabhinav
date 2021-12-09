@@ -12,15 +12,11 @@
 - Volunteer at Hermetica NIMBUS (NIT-H Tech Fest)
 ### Connect with me on :left_speech_bubble:
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/abhinav-vashisth-6717151a9/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" width = "100" height = "30"></img></a>
-&emsp;
-<a target="_blank" href="mailto:vashisthabhishan3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" width = "100" height = "30"></img></a>
-&emsp;
-<a target="_blank" href="https://leetcode.com/abhinav_010/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width = "100" height = "30" ></img></a>
-&emsp;
- <a target="_blank" href="https://twitter.com/Abhinav_0561"><img src="https://1000logos.net/wp-content/uploads/2017/06/Color-Twitter-Logo.jpg" width = "100" height = "30"></img></a>
-&emsp;
- 
+<p align="left">
+<a href="https://www.linkedin.com/in/abhinav-vashisth-3ab557207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-vashisth-3ab557207/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="username" height="30" width="40" /></a>
+<a href="https://twitter.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="username" height="30" width="40" /></a>
+</p>
  
 <h3 align="left"> 🛠Tech stacks :</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
