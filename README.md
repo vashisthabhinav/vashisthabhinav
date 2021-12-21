@@ -9,7 +9,7 @@
 - Sophomore at NIT-Hamirpur
 - Pursuing B.Tech. in Chemical Engineering (2020-Present)⚗️
 - I’m currently learning Java Programming👨🏻‍💻
-- Volunteer at Hermetica NIMBUS (NIT-H Tech Fest)
+- Executive Member at Team Hermetica, NIMBUS (NIT-H Tech Fest)
 ### Connect with me on :left_speech_bubble:
 <br>	
 <p align="left">
