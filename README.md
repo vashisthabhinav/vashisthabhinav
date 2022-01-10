@@ -7,10 +7,10 @@
 
 ### About Me 🚀
 - Sophomore at NIT-Hamirpur
-- Pursuing B.Tech. in Chemical Engineering (2020-Present)⚗️
+- Pursuing B.Tech. in Chemical Engineering (2020-Present).⚗️
 - I’m currently learning front-end web development.👨🏻‍💻
-- I am also passionate about Data Structures and Algorithms in Java
-- Executive Member at Team Hermetica, NIMBUS (NIT-H Tech Fest)
+- I am also passionate about Data Structures and Algorithms in Java.
+- Executive Member at Team Hermetica, NIMBUS (NIT-H Tech Fest).
 ### Connect with me on :left_speech_bubble:
 <br>	
 <p align="left">
