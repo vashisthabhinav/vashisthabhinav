@@ -18,6 +18,7 @@
 <a href="https://www.linkedin.com/in/abhinav-vashisth-06613b208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-vashisth-3ab557207/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Abhinav_0561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="username" height="30" width="40" /></a>
 <a href="https://twitter.com/Abhinav_0561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="username" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_.vashisth_abhinav/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.vashisth_abhinav" height="30" width="40" /></a>
 </p>
  
 <h3 align="left"> 🛠Tech stacks :</h3>
