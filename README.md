@@ -31,9 +31,9 @@
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- <p align="center"> <!--
+ <p align="center"> 
 <br><img src="https://github-readme-streak-stats.herokuapp.com/?user=vashisthabhinav&theme=highcontrast"/></p><br>
--->
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vashisthabhinav&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ovi" /></p>
 
 <br>
