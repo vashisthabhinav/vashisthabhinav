@@ -7,7 +7,7 @@
 
 
 ### About Me 🚀
-- Sophomore at NIT-Hamirpur.
+- Sophomore at National Institute of Technology-Hamirpur.
 - Pursuing B.Tech. in Chemical Engineering (2020-Present).⚗️
 - I’m currently learning Data Structures and Algorithms in Java.👨🏻‍💻
 - I am also passionate about Web Development.
