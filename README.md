@@ -34,7 +34,7 @@
  <p align="center"> 
 <br><img src="https://github-readme-streak-stats.herokuapp.com/?user=vashisthabhinav&theme=highcontrast"/></p><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vashisthabhinav&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ovi" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vashisthabhinav&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ovi" /></p>
 
 <br>
 
