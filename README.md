@@ -38,7 +38,7 @@
 
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vashisthabhinav&theme=gruv_box&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vashisthabhinav&theme=gruvbox&hide_border=true&area=true)
 
 <br> VISITORS: <br>
 
