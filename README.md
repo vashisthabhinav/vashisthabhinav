@@ -40,6 +40,6 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vashisthabhinav&theme=gruvbox&hide_border=true&area=true)
 
-<br> VISITORS: <br>
+<br> VISITORS COUNT: <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/{vashisthabhinav}/count.svg)
