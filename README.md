@@ -10,7 +10,7 @@
 - I’m currently learning Data Structures and Algorithms in Java.👨🏻‍💻
 - I am also passionate about Web Development and Python.
 - Executive Member at Team Hermetica, NIMBUS (NIT-H Tech Fest).
-- 
+
 ### Connect with me on :left_speech_bubble:
 <br>	
 <p align="left">
