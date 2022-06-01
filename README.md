@@ -1,4 +1,4 @@
-## Hello !!   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hello !!   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="2px">
 
 [![GitHub followers](https://img.shields.io/github/followers/vashisthabhinav.svg?style=social&label=Followers)](https://github.com/vashisthabhinav?tab=followers)
 
