@@ -8,7 +8,7 @@
 - Sophomore at National Institute of Technology, Hamirpur.
 - Pursuing B.Tech. in the field of Chemical Engineering (2020-Present).⚗️
 - I’m currently learning Data Structures and Algorithms in Java.👨🏻‍💻
-- I am also passionate about Web Development and React.
+- I am also passionate about Web Development.
 - Executive Member at Team Hermetica, NIMBUS (NIT-H Tech Fest).
 
 ### Connect with me on :left_speech_bubble:
