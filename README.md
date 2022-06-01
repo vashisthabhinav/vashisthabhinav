@@ -29,7 +29,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vashisthabhinav&theme=highcontrast" alt="vashisthabhinav"  /></p>
 <hr>
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  <p align="center"> 
 <br><img src="https://github-readme-streak-stats.herokuapp.com/?user=vashisthabhinav&theme=highcontrast"/></p><br>
 
