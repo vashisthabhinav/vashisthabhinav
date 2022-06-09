@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=0000FF&size=30&lines=Myself+Abhinav+Vashisth;)](https://git.io/typing-svg)
 
 ### About Me 🚀
-- Sophomore at National Institute of Technology, Hamirpur.
+- Student at National Institute of Technology, Hamirpur.
 - Pursuing B.Tech. in the field of Chemical Engineering (2020-Present).⚗️
 - I’m currently learning Data Structures and Algorithms in Java.👨🏻‍💻
 - I am also passionate about Web Development.
