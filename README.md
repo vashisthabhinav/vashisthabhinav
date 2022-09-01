@@ -7,7 +7,7 @@
 ### About Me 🚀
 - Student at National Institute of Technology, Hamirpur.
 - I’m currently learning Data Structures and Algorithms in Java.👨🏻‍💻
-- I am passionate about Web Development.
+- I am passionate about Full Stack Development.
 
 ### Connect with me on :left_speech_bubble:
 <br>	
