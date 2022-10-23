@@ -16,7 +16,7 @@
 <a href="https://www.leetcode.com/Abhinav_0561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="username" height="30" width="40" /></a>
 <a href="https://twitter.com/Abhinav_0561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="username" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__abhinav_08__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__abhinav_08__" height="30" width="40" /></a>
- <a href="[https://www.instagram.com/__abhinav_08__](https://www.codechef.com/users/abhinav_010)" target="blank"><img align="center" src=" https://www.codechef.com/misc/fb-image-icon.png" alt="__abhinav_08__" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/abhinav_010" target="blank"><img align="center" src=" https://www.codechef.com/misc/fb-image-icon.png" alt="CF" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> Tech stacks 🛠:</h3>
